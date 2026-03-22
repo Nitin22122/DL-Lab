@@ -22,7 +22,7 @@ Scikit-learn
 
 Getting Started
 Clone the repository
-git clone https://github.com/your-username/deep-learning.git
+git clone https://github.com/Nitin22122/DL-Lab
 
 cd deep-learning
 Install dependencies
